@@ -1,0 +1,62 @@
+/* #332941
+#3B3486
+#864AF9
+#F8E559 */
+
+body {
+  background-color: #864af9;
+}
+main {
+  color: #f8e559;
+}
+section {
+  color: #332941;
+}
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 26px;
+}
+p {
+  font-size: 18px;
+}
+nav ol li {
+  list-style: none;
+  display: inline-block;
+  padding: 13px;
+}
+nav ol {
+  text-align: center;
+  background-color: #f8e559;
+}
+main h1 {
+  text-align: center;
+  background-color: #332941;
+  padding: 5px 0px;
+}
+h3 span {
+  color: #f8e559;
+}
+header,
+main,
+footer {
+  max-width: 80%;
+  margin: 0 auto;
+}
+.fondo h2{
+  padding-left: 8px; 
+}
+.fondo h3{
+  text-align: center;
+}
+.xd {
+  border:4px solid #332941;
+  margin: 2px; 
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.footer img{
+  width: 500px;
+  height: 500px;
+}
